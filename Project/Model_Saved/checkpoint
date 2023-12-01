@@ -1,0 +1,2 @@
+model_checkpoint_path: "G01(ionosphere)"
+all_model_checkpoint_paths: "G01(ionosphere)"
