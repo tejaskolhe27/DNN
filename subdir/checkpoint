@@ -1,0 +1,2 @@
+model_checkpoint_path: "chkpt_(epoch)"
+all_model_checkpoint_paths: "chkpt_(epoch)"
